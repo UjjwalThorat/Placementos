@@ -1,7 +1,7 @@
-streamlit==1.38.0
-anthropic==0.39.0
-groq==1.6.0
-pypdf==5.0.1
-scikit-learn==1.5.2
-numpy==1.26.4
-python-dateutil==2.9.0
+streamlit
+anthropic
+groq
+pypdf
+scikit-learn
+numpy
+python-dateutil
